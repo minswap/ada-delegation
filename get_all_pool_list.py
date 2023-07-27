@@ -4,7 +4,6 @@ import re
 
 # List of pool names
 pool_list = [
-    "LONG_TEST",
     "SCM",
     "REETG",
     "DEGAS",
@@ -180,5 +179,5 @@ for item in data['data']:
             break
 
 # Save the filtered pool data to a JSON file
-with open("total-pool-list.json", "w") as file:
+with open("all-pool-list.json", "w") as file:
     json.dump(filtered_pools, file, indent=4)

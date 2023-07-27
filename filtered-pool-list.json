@@ -1,0 +1,362 @@
+[
+    {
+        "name": "[REETG] Reet Good Cardano",
+        "stake": "2669548800882",
+        "tax_fix": "340000000",
+        "pledge": "34000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "152",
+        "url": "https://cexplorer.io/pool/pool1ds7rtjqxauff54ny4avs7qxmvchepuv6u79kgg0sf84mjlhxznp"
+    },
+    {
+        "name": "[ABLE] Able Stake Pool",
+        "stake": "2544953451113",
+        "tax_fix": "340000000",
+        "pledge": "40000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "288",
+        "url": "https://cexplorer.io/pool/pool1mt8sdg37f2h3rypyuc77k7vxrjshtvjw04zdjlae9vdzyt9uu34"
+    },
+    {
+        "name": "[000] Switzerland Investment",
+        "stake": "2189604854606",
+        "tax_fix": "340000000",
+        "pledge": "200000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "450",
+        "url": "https://cexplorer.io/pool/pool1q80jjs53w0fx836n8g38gtdwr8ck5zre3da90peuxn84sj3cu0r"
+    },
+    {
+        "name": "[SUGAR] Sugar Stake Pool",
+        "stake": "1743303651578",
+        "tax_fix": "340000000",
+        "pledge": "60000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "949",
+        "url": "https://cexplorer.io/pool/pool1tjr4zpndkvwkw3du3fvt59f5men6jhuevt7rpx6xw0wcct5kl04"
+    },
+    {
+        "name": "[ADAR] ADA Rewards",
+        "stake": "1420279609482",
+        "tax_fix": "340000000",
+        "pledge": "110000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "507",
+        "url": "https://cexplorer.io/pool/pool17r3u34ywld6sehe9dd5t40ygq7rmc6yfw2k0h0hpllznwlmwsnn"
+    },
+    {
+        "name": "[HODLR] Hodler Coalition",
+        "stake": "214143528335",
+        "tax_fix": "340000000",
+        "pledge": "50000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "249",
+        "url": "https://cexplorer.io/pool/pool1eaeynp2hs06v4x8q65jfm2xqcd3dc80rv220gmxvwg8m5sd6e7a"
+    },
+    {
+        "name": "[NOVA]  NOVApool.io",
+        "stake": "1525629495798",
+        "tax_fix": "340000000",
+        "pledge": "100000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "239",
+        "url": "https://cexplorer.io/pool/pool1sf784g6eje8vzq9f5wu583eurhfq2ee9hzyhl46yezkuqqtmw07"
+    },
+    {
+        "name": "[4WARD] ADA for Warriors",
+        "stake": "849805081966",
+        "tax_fix": "340000000",
+        "pledge": "151000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "258",
+        "url": "https://cexplorer.io/pool/pool1kcrr7re05pwesye0zh00a4xxnsrw5c29rd82fn4qecdcqu5rue3"
+    },
+    {
+        "name": "[1COMM] One Community ADA",
+        "stake": "1863764467500",
+        "tax_fix": "340000000",
+        "pledge": "402000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "330",
+        "url": "https://cexplorer.io/pool/pool1whmm0hkxunyhxsr6dfjpx2tpvd05qhev820lx9vcmvqa5wjc6nh"
+    },
+    {
+        "name": "[EUSKL] EUSKAL STAKE POOL",
+        "stake": "1612806263638",
+        "tax_fix": "340000000",
+        "pledge": "30000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "152",
+        "url": "https://cexplorer.io/pool/pool1ksfzungz56vxa9sy6hr54v5hf6qx8rmcu6734gqm3qlxucveed6"
+    },
+    {
+        "name": "[SAGAN] Sagan Stake Pool",
+        "stake": "853709274607",
+        "tax_fix": "340000000",
+        "pledge": "80000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "95",
+        "url": "https://cexplorer.io/pool/pool18p7p752cjnf9z8g70ygkre5cstwmgfatzuqm0tm3n2xf739j8k8"
+    },
+    {
+        "name": "[METAL] Blistering.io",
+        "stake": "319771455796",
+        "tax_fix": "340000000",
+        "pledge": "100000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "23",
+        "url": "https://cexplorer.io/pool/pool1llfrhf0htc528jcmp9dr2tzsjnt93y2gkjfjn5znjh9a79avwv7"
+    },
+    {
+        "name": "[BKV] BKV",
+        "stake": "210211169112",
+        "tax_fix": "340000000",
+        "pledge": "89000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "1",
+        "url": "https://cexplorer.io/pool/pool19zhl50qqzpfvvhdytqg6qx0cthummjyunfyvkfqx9uxrsp7k8ek"
+    },
+    {
+        "name": "[GNP1] GrahamsNumberPlus1",
+        "stake": "727688679207",
+        "tax_fix": "340000000",
+        "pledge": "25000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "48",
+        "url": "https://cexplorer.io/pool/pool1fv9f8phzn7hp623ypw6ctf73a98hd7nrh8wm7glpcuhf64856g2"
+    },
+    {
+        "name": "[JORGE] JORGE",
+        "stake": "3414957460493",
+        "tax_fix": "340000000",
+        "pledge": "400000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "868",
+        "url": "https://cexplorer.io/pool/pool10mf43thtl3keag50mrlvqa78xkwg7harmu4w5yzr3k7jvw0ap43"
+    },
+    {
+        "name": "[JOEY] Joey Stake Pool",
+        "stake": "2768973755826",
+        "tax_fix": "340000000",
+        "pledge": "25000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "1248",
+        "url": "https://cexplorer.io/pool/pool1q0memmdw4ktr88fkma53tqgkaqeq3wfc476le59rped4cu8tn4h"
+    },
+    {
+        "name": "[ITZA] Chichen Itza",
+        "stake": "4658684620711",
+        "tax_fix": "340000000",
+        "pledge": "50000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "641",
+        "url": "https://cexplorer.io/pool/pool1c2wa8326fulnkq42uerra78pue48pdwsqru2dhp5xrhsgzqmlsc"
+    },
+    {
+        "name": "[ALPCH] Alpen Cardano",
+        "stake": "335162588795",
+        "tax_fix": "340000000",
+        "pledge": "27400000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "219",
+        "url": "https://cexplorer.io/pool/pool18r2y72aue5nmv489xtnfxl36vzusq95qst6urd87yd5hgzms04c"
+    },
+    {
+        "name": "[DEV] Development Stake Pool",
+        "stake": "2219741468863",
+        "tax_fix": "340000000",
+        "pledge": "30000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "313",
+        "url": "https://cexplorer.io/pool/pool1e2tl2w0x4puw0f7c04mznq4qz6kxjkwhvuvusgf2fgu7q4d6ghv"
+    },
+    {
+        "name": "[OYSTR] Oyster Pool",
+        "stake": "1906464001034",
+        "tax_fix": "340000000",
+        "pledge": "535000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "444",
+        "url": "https://cexplorer.io/pool/pool1l6aeyn35nkqkn9lqqlwqnpraakdzuukjrqprcrj3sctk6hhe32k"
+    },
+    {
+        "name": "[RX78] RX-78",
+        "stake": "1546727280970",
+        "tax_fix": "340000000",
+        "pledge": "30000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "358",
+        "url": "https://cexplorer.io/pool/pool18heqrjtge2emf2hes4mdxkr76y99zztkqk4qtjr9dul0vuur0yu"
+    },
+    {
+        "name": "[ASN] AdaStarNode",
+        "stake": "1692673330663",
+        "tax_fix": "340000000",
+        "pledge": "30000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "469",
+        "url": "https://cexplorer.io/pool/pool17ynruzy9lvq0x55ks22vtf4lrrdrw2ucydh4tfzhg9kkyeaw8nf"
+    },
+    {
+        "name": "[CAKE] STAKE for CAKE",
+        "stake": "4056514321513",
+        "tax_fix": "340000000",
+        "pledge": "250000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "497",
+        "url": "https://cexplorer.io/pool/pool1kvd03hq8kp0hnxq9lq598a5amrvauj9m386rwx7ydawvjdskwnh"
+    },
+    {
+        "name": "[AKYO] AKYO",
+        "stake": "1902158705940",
+        "tax_fix": "340000000",
+        "pledge": "41000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "523",
+        "url": "https://cexplorer.io/pool/pool1jsxk3ymqv2gdc6mhqk52544g2aun4zhq5wgx6n32l5s3jlne70n"
+    },
+    {
+        "name": "[VICIS] VICISpool",
+        "stake": "4549514656664",
+        "tax_fix": "340000000",
+        "pledge": "1110000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "144",
+        "url": "https://cexplorer.io/pool/pool13zq5jktx7xmngfer82nkrs8aqjklmydntxdqzttas328yuttgx6"
+    },
+    {
+        "name": "[BRAVE] BraveHeartStakePool",
+        "stake": "962889744571",
+        "tax_fix": "340000000",
+        "pledge": "25000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "633",
+        "url": "https://cexplorer.io/pool/pool1cuqnuz57puz2qd3enr9vtkcp7z92ge4h2ks6j8zzknztx3283q7"
+    },
+    {
+        "name": "[SCM] Sick City Music",
+        "stake": "761815595903",
+        "tax_fix": "340000000",
+        "pledge": "25000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "348",
+        "url": "https://cexplorer.io/pool/pool19n5ml38q5uedy8kgwwwtlsa3p9tmfcef0lfjp42k7j9d5mpgs2m"
+    },
+    {
+        "name": "[8BALL] 8BALL",
+        "stake": "1135908214795",
+        "tax_fix": "340000000",
+        "pledge": "808000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "189",
+        "url": "https://cexplorer.io/pool/pool13ws3wf9skw0ngg3aze482tdxqsnfmvf4vgy46cux599mxm8n27g"
+    },
+    {
+        "name": "[SUDTI] Southtyrol",
+        "stake": "558320947630",
+        "tax_fix": "340000000",
+        "pledge": "25000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "115",
+        "url": "https://cexplorer.io/pool/pool19k4azhj8tye5wwy5pfj7q6m938m8fg5nglds5dkhtfwnvcg3s0k"
+    },
+    {
+        "name": "[SUI] ADA Suisse ",
+        "stake": "1393452683045",
+        "tax_fix": "340000000",
+        "pledge": "31000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "158",
+        "url": "https://cexplorer.io/pool/pool1w9yeaaadjz9563tf2h7katrlujvxnywda8el8z66h02ckccx95x"
+    },
+    {
+        "name": "[ENVY] Envy Stake Pool",
+        "stake": "1189502147904",
+        "tax_fix": "340000000",
+        "pledge": "30000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "57",
+        "url": "https://cexplorer.io/pool/pool1zn4wnk52kmfjy9mw4z85p6wn9kzrn94l9h5gys8r2k2w57mdnhh"
+    },
+    {
+        "name": "[ART] Blockchain ART Pool",
+        "stake": "228333459879",
+        "tax_fix": "340000000",
+        "pledge": "25000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "675",
+        "url": "https://cexplorer.io/pool/pool1rhq7qyw4y2s80gstyevm6rhz2lsdsrcstawunxx5eld8csvuvlu"
+    },
+    {
+        "name": "[CBFR] Baremetal French Pool",
+        "stake": "1214260676291",
+        "tax_fix": "340000000",
+        "pledge": "1000000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "45",
+        "url": "https://cexplorer.io/pool/pool16cy45uggzv3ah3s5m960v9vuxlx47sfnezpszuhcwl99z7nq8kq"
+    },
+    {
+        "name": "[PFL01] Pool For Lovelace 01",
+        "stake": "859654385586",
+        "tax_fix": "340000000",
+        "pledge": "501000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "86",
+        "url": "https://cexplorer.io/pool/pool1yjlmvfck6a2mhup4ljel06r635e9lhs0qsrzu6f2luepvsd42lv"
+    },
+    {
+        "name": "[DIO] DIONYSUS",
+        "stake": "294799255283",
+        "tax_fix": "340000000",
+        "pledge": "25000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "44",
+        "url": "https://cexplorer.io/pool/pool18kqs8hf26zpcmxz68lqqya79tks4y7gg3ua3msgamq2vuphfc2z"
+    },
+    {
+        "name": "[CHAMP] champADA",
+        "stake": "4049335372543",
+        "tax_fix": "340000000",
+        "pledge": "25000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "563",
+        "url": "https://cexplorer.io/pool/pool1jm220zs5txnxe6nt89hajtm6hwsf902e2dwjrtfuq33uw835g65"
+    },
+    {
+        "name": "[TREE] ADATree.io",
+        "stake": "4982795851576",
+        "tax_fix": "340000000",
+        "pledge": "122000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "735",
+        "url": "https://cexplorer.io/pool/pool1ktgug7wwf9k4hcsuk68ftkh8xs5n0333fzxyw9sagz8njhlskgm"
+    },
+    {
+        "name": "[LCP] LovelaceCommunityPool",
+        "stake": "3202447488863",
+        "tax_fix": "340000000",
+        "pledge": "333333333333",
+        "tax_ratio": "0",
+        "blocks_lifetime": "573",
+        "url": "https://cexplorer.io/pool/pool1hnp560z9e5acwux8tjguxq36j9r255zuf02u7z2d46dvcf5zhns"
+    },
+    {
+        "name": "[WAT] Angkor Wat Stakepool",
+        "stake": "832545079382",
+        "tax_fix": "340000000",
+        "pledge": "250000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "76",
+        "url": "https://cexplorer.io/pool/pool1a6ft5ktrkv8klnadtuec6ku2khst5q5vtt67mpma02vfx3nwm7g"
+    },
+    {
+        "name": "[1337] 1337",
+        "stake": "635161336784",
+        "tax_fix": "340000000",
+        "pledge": "40000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "57",
+        "url": "https://cexplorer.io/pool/pool14pxhk34wlpu2azrnwy9ah8hrzxgffhqthcxcp620209eupfjfcn"
+    }
+]

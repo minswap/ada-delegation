@@ -1,7 +1,7 @@
 import json
 
 # Load the JSON file
-with open('total-pool-list.json') as file:
+with open('all-pool-list.json') as file:
     data = json.load(file)
 
 # Define the conditions for pool removal
@@ -12,9 +12,9 @@ def should_remove(pool):
     tax_ratio = float(pool['tax_ratio'])
     blocks_lifetime = int(pool['blocks_lifetime'])
 
-    if 200000000000 < stake < 5000000000000 and \
-       tax_fix == 340000000 and \
-       pledge > 20000000000 and \
+    if 200_000_000_000 < stake < 5_000_000_000_000 and \
+       tax_fix == 340_000_000 and \
+       pledge > 20_000_000_000 and \
        tax_ratio <= 0.03 and \
        blocks_lifetime >= 1:
         return False
