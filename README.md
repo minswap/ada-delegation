@@ -7,6 +7,7 @@ How to run:
 ```python
 python3 get_all_pool_list.py
 python3 get_eligible_pool_list.py
+python3 randomize_pool.py
 ```
 
 Data source: https://cexplorer.io/
