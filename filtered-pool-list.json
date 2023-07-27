@@ -1,5 +1,23 @@
 [
     {
+        "name": "[ALFA] Alfa Pool",
+        "stake": "420838200883",
+        "tax_fix": "340000000",
+        "pledge": "210000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "165",
+        "url": "https://cexplorer.io/pool/pool18qddv82sx8p22uxzdrf0qx9lkewxadlr9ef45kpcf7dzz3n56qv"
+    },
+    {
+        "name": "[YOADA] &lt;(-_-)&gt; GHOSTCHAIN STAKING",
+        "stake": "1755259037956",
+        "tax_fix": "340000000",
+        "pledge": "101000000000",
+        "tax_ratio": "0",
+        "blocks_lifetime": "358",
+        "url": "https://cexplorer.io/pool/pool1je2n5smmnyn3lh92xrp8nepjyfp596ypga6pmdecwtcrcj9uvec"
+    },
+    {
         "name": "[REETG] Reet Good Cardano",
         "stake": "2669548800882",
         "tax_fix": "340000000",

@@ -54,24 +54,6 @@
         "url": "https://cexplorer.io/pool/pool15cy4p3axu0m6sfrmxsp46z5cevx3ruksfwjl48730cgx24j4ydz"
     },
     {
-        "name": "[ALFA] Alfa Pool",
-        "stake": "6393436818940",
-        "tax_fix": "340000000",
-        "pledge": "210000000000",
-        "tax_ratio": "0",
-        "blocks_lifetime": "165",
-        "url": "https://cexplorer.io/pool/pool18qddv82sx8p22uxzdrf0qx9lkewxadlr9ef45kpcf7dzz3n56qv"
-    },
-    {
-        "name": "[YOADA] &lt;(-_-)&gt; GHOSTCHAIN STAKING",
-        "stake": "5765196436836",
-        "tax_fix": "340000000",
-        "pledge": "101000000000",
-        "tax_ratio": "0",
-        "blocks_lifetime": "358",
-        "url": "https://cexplorer.io/pool/pool1je2n5smmnyn3lh92xrp8nepjyfp596ypga6pmdecwtcrcj9uvec"
-    },
-    {
         "name": "[CLOVR] CloverNodes",
         "stake": "1693126065435",
         "tax_fix": "340000000",
