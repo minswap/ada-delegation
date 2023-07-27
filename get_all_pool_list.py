@@ -166,18 +166,9 @@ for item in data['data']:
     for name in pool_list:
         pattern = r"\[{}\]".format(re.escape(name))
         if re.search(pattern, item['name']):
-            pool_data = {
-                "name": item["name"],
-                "stake": item["stake"],
-                "tax_fix": item["tax_fix"],
-                "pledge": item["pledge"],
-                "tax_ratio": item["tax_ratio"],
-                "blocks_lifetime": item["blocks_lifetime"],
-                "url": item["url"]
-            }
-            filtered_pools.append(pool_data)
+            filtered_pools.append(item)
             break
 
 # Save the filtered pool data to a JSON file
 with open("all-pool-list.json", "w") as file:
-    json.dump(filtered_pools, file, indent=4)
+    json.dump(filtered_pools, file, indent=2)

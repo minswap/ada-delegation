@@ -26,12 +26,12 @@ filtered_pools = [pool for pool in data if not should_remove(pool)]
 
 # Save the filtered pools to a new JSON file
 with open('filtered-pool-list.json', 'w') as file:
-    json.dump(filtered_pools, file, indent=4)
+    json.dump(filtered_pools, file, indent=2)
 
 # Save the ineligible pools to a separate JSON file
 unfiltered_pools = [pool for pool in data if should_remove(pool)]
 with open('unfiltered-pool-list.json', 'w') as file:
-    json.dump(unfiltered_pools, file, indent=4)
+    json.dump(unfiltered_pools, file, indent=2)
 
 print("Filtered pools saved to filtered-pool-list.json.")
 print("Ineligible pools saved to unfiltered-pool-list.json.")
