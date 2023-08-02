@@ -15,7 +15,7 @@ def should_remove(pool):
     if 200_000_000_000 < stake < 5_000_000_000_000 and \
        tax_fix == 340_000_000 and \
        pledge > 20_000_000_000 and \
-       tax_ratio <= 0.03 and \
+       tax_ratio <= 3 and \
        blocks_lifetime >= 1:
         return False
 
