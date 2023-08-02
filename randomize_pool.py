@@ -1,8 +1,8 @@
 import json
 import random
 
-# First block of epoch 426: https://cexplorer.io/block/74ccbf93c3f546dafe5e8e93448c567b8122603e87b9f6909ba3fdae89792ba4
-SEED = "74ccbf93c3f546dafe5e8e93448c567b8122603e87b9f6909ba3fdae89792ba4"
+# First block of epoch 427: https://cexplorer.io/block/895af0e01d05998358cda4f8ef6868f8d75eccc36f67c731357a1d82a8e2a5ed
+SEED = "895af0e01d05998358cda4f8ef6868f8d75eccc36f67c731357a1d82a8e2a5ed"
 
 with open('filtered-pool-list.json') as file:
     data = json.load(file)
