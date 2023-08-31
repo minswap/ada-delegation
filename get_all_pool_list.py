@@ -127,7 +127,7 @@ pool_list = [
     "CHAMP",
     "ABLE",
     "ara",
-    "dtDn",
+    "DTDN",
     "CBFR",
     "1GURU",
     "CBFR",
