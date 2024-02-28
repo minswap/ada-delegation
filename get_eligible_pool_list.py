@@ -12,9 +12,9 @@ def should_remove(pool):
     tax_ratio = float(pool['tax_ratio'])
     blocks_lifetime = int(pool['blocks_lifetime'])
 
-    if 200_000_000_000 < stake < 5_000_000_000_000 and \
-       tax_fix == 340_000_000 and \
-       pledge > 20_000_000_000 and \
+    if 200_000_000_000 <= stake <= 5_000_000_000_000 and \
+       tax_fix <= 340_000_000 and \
+       pledge >= 20_000_000_000 and \
        tax_ratio <= 3 and \
        blocks_lifetime >= 1:
         return False
